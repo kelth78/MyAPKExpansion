@@ -3,10 +3,10 @@ apply plugin: 'com.android.application'
 android {
     signingConfigs {
         config {
-            keyAlias '<TODO your key alias>'
-            storeFile file('<TODO path to jks key file>')
-            keyPassword '<TODO your key file password>'
-            storePassword '<TODO your key file password>'
+            keyAlias 'Kelth'
+            storeFile file('/Users/clpl/keystores/android.jks')
+            keyPassword 'Superman1'
+            storePassword 'Superman1'
         }
     }
     compileSdkVersion 26
@@ -14,8 +14,8 @@ android {
         applicationId "com.kelth.myapkexpansion"
         minSdkVersion 16
         targetSdkVersion 26
-        versionCode 7
-        versionName "1.7"
+        versionCode 9
+        versionName "1.9"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {

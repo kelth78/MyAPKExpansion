@@ -64,9 +64,9 @@ public class MainActivity extends Activity implements IDownloaderClient {
     // TODO: Specify patch file version, file size here if there's update
     private static final String LOG_TAG = "LVLDownloader";
     private static final String DEFAULT_MUSIC_FILE_IN_OBB = "expansion_file/assets/music.mp3";
-    private static final int CURRENT_OBB_MAIN_VERSION = 7;
+    private static final int CURRENT_OBB_MAIN_VERSION = 8;
     private static final int CURRENT_OBB_PATCH_VERSION = 0;
-    private static final long CURRENT_OBB_MAIN_FILESIZE = 1379496L;
+    private static final long CURRENT_OBB_MAIN_FILESIZE = 1423935L;
 
     private ProgressBar mPB;
 
