@@ -6,3 +6,6 @@ Google Play requires that the compressed APK that users download be no more than
 
 References:
 https://developer.android.com/google/play/expansion-files
+
+Demo:
+https://play.google.com/store/apps/details?id=com.kelth.myapkexpansion
